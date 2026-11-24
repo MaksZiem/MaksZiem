@@ -12,8 +12,7 @@
 
 I'm a full-stack developer based in Warsaw. I build complete web applications, from backend architecture and the database to a polished interface. I feel most at home in **NestJS** on the backend and use **Next.js / React** on the frontend.
 
-- 🧠 Studying Computer Science (**intelligent systems**) at the Warsaw University of Technology. I hold a BEng in Computer Science from the University of Rzeszów.
-- 💼 Spent 2 years as a **Frontend Developer** at e-bi (2024 – 2026).
+- 💼 Previously worked as a **Frontend Developer**.
 - 🤖 I add AI to products in a way that stays **predictable and safe**: function calling with permission checks, human-in-the-loop approvals, structured JSON output validated against a schema, and RAG with sources.
 - ✅ Every project ships with unit tests, GitHub Actions CI, Swagger docs and a live demo.
 
